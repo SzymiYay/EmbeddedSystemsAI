@@ -5,7 +5,7 @@
 
 ----
 
-### Rock-Paper-Scissors Game
+### Wbudowane Systemy AI
 <br/><br/>
 <img src="public/agh.png" alt="AGH" width="200" height="400"/>
 
