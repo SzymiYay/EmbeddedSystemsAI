@@ -92,7 +92,7 @@ docker_run_params=$(cat <<-END
     -v $HERE:/workspace \
     -w /workspace \
     --rm \
-    --network=host \
+    -p 8888:8888 \
     ${DETACHED} \
     ${RUN_MODE} \
     $IMAGE_NAME \
